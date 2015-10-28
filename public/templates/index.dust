@@ -1,6 +1,32 @@
 {>"layouts/master" /}
 
 {<body}
-    
-
+    <div class="large-3 columns book">
+      <img src="/img/python.jpg">
+      <h4>Python</h4>
+      <p>Etiam congue felis ac nisi dignissim convallis. Sed nisl lacus, blandit sed vehicula at, mattis eu nisl.</p>
+      <div class="price">Buy it for <span>19.99</span> </div>
+      <a class="button small" href="/books/details/1">Book Details</a>
+    </div>
+    <div class="large-3 columns book">
+      <img src="/img/Cover.jpg">
+      <h4>Tech-KNOW-Ledgy</h4>
+      <p>Etiam congue felis ac nisi dignissim convallis. Sed nisl lacus, blandit sed vehicula at, mattis eu nisl.</p>
+      <div class="price">Buy it for <span>25.99</span> </div>
+      <a class="button small" href="/books/details/2">Book Details</a>
+    </div>
+    <div class="large-3 columns book">
+      <img src="/img/modern_tech_cover.jpg">
+      <h4>Modern Tech</h4>
+      <p>Etiam congue felis ac nisi dignissim convallis. Sed nisl lacus, blandit sed vehicula at, mattis eu nisl.</p>
+      <div class="price">Buy it for <span>39.99</span> </div>
+      <a class="button small" href="/books/details/1">Book Details</a>
+    </div>
+    <div class="large-3 columns book">
+      <img src="/img/computer.jpg">
+      <h4>Computer</h4>
+      <p>Etiam congue felis ac nisi dignissim convallis. Sed nisl lacus, blandit sed vehicula at, mattis eu nisl.</p>
+      <div class="price">Buy it for <span>29.99</span> </div>
+      <a class="button small" href="/books/details/1">Book Details</a>
+    </div>
 {/body}
